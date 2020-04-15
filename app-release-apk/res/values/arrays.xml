@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="device_shaken_options">
-        <item>Delete Cache</item>
-        <item>Cancel</item>
-    </string-array>
-</resources>
