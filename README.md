@@ -10,6 +10,6 @@ https://code.launchpad.net/focus-forge/+git
 <br>
 <hr>
 <br>
-IOS Installer - <a>https://webapp.diawi.com/install/dcJx32</a>
+[IOS Installer](https://webapp.diawi.com/install/dcJx32)
 <br>
-Android Installer - <a>https://webapp.diawi.com/install/YBhc9i</a>
+[Android Installer](https://webapp.diawi.com/install/YBhc9i)
