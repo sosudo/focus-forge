@@ -8,8 +8,3 @@ https://sourceforge.net/projects/focus-forge/files/1.0.0/<br>
 https://github.com/Imperial-Industries/focus-forge/releases <br>
 https://code.launchpad.net/focus-forge/+git
 <br>
-<hr>
-<br>
-IOS Installer - https://ioair.link/qakvgd
-<br>
-Android Installer - https://ioair.link/afwr79
